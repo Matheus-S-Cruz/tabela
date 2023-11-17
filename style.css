@@ -1,7 +1,7 @@
 /* Estilos gerais para o body e tabela */
 body {
     /* Fundo gradiente para o body */
-    background-image: linear-gradient(to bottom, rgba(199, 171, 15), rgb(33, 36, 12));
+    background-image: linear-gradient(to bottom, rgb(51, 71, 248), rgb(55, 24, 70));
     font-family: Arial, Helvetica, sans-serif;
     width: 100vw;
     height: 100vh;
@@ -23,9 +23,9 @@ td,
 th,
 tr {
     /* Estilos para as células da tabela */
-    border: 2px solid #f38304;
+    border: 2px solid #3f02899c;
     text-align: center;
-    background-color: #dee204;
+    background-color: #4580ff90;
     padding: 10px;
     font-size: 15px;
 }
